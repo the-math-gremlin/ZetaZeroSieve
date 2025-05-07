@@ -1,9 +1,21 @@
-# Harmonic Sieve for Zeta Zeros — Data Bundle
+## Harmonic Zeta Sieve
 
-This archive contains supporting data files for the paper:
+Modular harmonic sieve for detecting nontrivial Riemann zeta zeros through phase-locked resonance analysis. This project provides code and data for independent verification of the harmonic sieve described in the paper:
 
-> **Sadie A. Sherratt (2025).**  
-> *Phase-Locked Modular Resonance and the Structure of Zeta Zeros.*
+Sadie A. Sherratt (2025).Phase-Locked Modular Resonance and the Structure of Zeta Zeros.
+
+## 📄 Overview
+
+This repository includes the full data bundle for the harmonic sieve model, designed to detect nontrivial Riemann zeta zeros using a phase-locked modular resonance approach. This approach leverages the interplay between base-3 and base-π logarithmic spirals to identify resonance points where zeta zeros align, without relying on statistical approximations.
+
+Key Features:
+
+- Fast, scalable zero detection using modular harmonic resonance.
+
+- Precomputed datasets for efficient verification without full recalculation.
+
+- Structured for direct use in numerical experiments and algorithm development.
+
 ---
 
 ## 📄 Contents
