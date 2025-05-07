@@ -1,0 +1,14 @@
+Copyright (c) 2025 Sadie A. Sherratt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this data and associated documentation files (the "Data Bundle"), to use the
+Data Bundle for non-commercial research and educational purposes only, subject
+to the following conditions:
+
+1. The Data Bundle may not be used for commercial purposes without explicit prior written permission.
+2. Redistribution of the Data Bundle, with or without modification, must retain this copyright notice.
+3. Any publications, presentations, or derivative works making use of the Data Bundle must appropriately cite:
+
+   Sadie A. Sherratt (2025). *Phase-Locked Modular Resonance and the Structure of Zeta Zeros.*
+
+THE DATA BUNDLE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE DATA BUNDLE OR THE USE OR OTHER DEALINGS IN THE DATA BUNDLE.

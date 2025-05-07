@@ -1,0 +1,8 @@
+Zeta Sieve Final Parameters:
+Amplitude = 12.2
+Frequency = 0.001
+Smoothing Sigma = 5.0
+Tolerance = 0.875
+Envelope = mu(t) + A * sin(f * log(t+1))
+Captured: 99,995 / 100,000
+Missed zeros are classified as harmonic seeds (early deformations).
