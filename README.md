@@ -46,13 +46,6 @@ The datasets allow independent verification of the modular geometric model witho
 - `.txt` — Documentation or symbolic tables describing the dataset structure.
 - `.txt` — List of known nontrivial zeta zeros used for empirical validation.
 
-All arrays are saved using standard Numpy formats and can be loaded easily with:
-
-```python
-import numpy as np
-data = np.load('filename.npy')
-```
-
 ---
 
 ## ⚙️ Requirements
@@ -62,6 +55,25 @@ data = np.load('filename.npy')
   - `numpy`
 
 *No special or proprietary packages are needed to load or use the data.*
+
+---
+## Quickstart:
+
+To load the included data files:
+
+```python
+import numpy as np
+
+# Load the primary sieve data
+sieve_data = np.load('data/sieve_parameters.txt')
+zeros = np.load('zeros/zeros1.gz')
+
+data_band = np.load('data/within_band_mask.npy')
+
+print(f"Loaded {len(zeros)} known zeros.")
+```
+
+This snippet demonstrates loading the core sieve data and known zero files for quick inspection. For more detailed usage, refer to the accompanying paper.
 
 ---
 
